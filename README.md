@@ -49,6 +49,5 @@ Currently, I am completing **Verilog and digital design training** and actively 
 ---
 
 ## 📫 Let's Connect
-- **GitHub:** [AbdallahSFF](https://github.com/AbdallahSFF)  
 - **LinkedIn:** [Abdallah S. Frehat](https://linkedin.com/in/abdallah-s-frehat)  
 - **Email:** abdallahsfrehat@gmail.com  
