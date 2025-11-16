@@ -1,17 +1,13 @@
 # Abdallah Frehat
 
 ## 🚀 About Me
-I am a Computer Systems Engineer with a strong foundation in **object-oriented programming**, **algorithms**, and **software development**. My experience spans **full-stack web development** and **digital design**, with hands-on projects using **Python, C++, Java**, and modern frameworks. I am particularly interested in **R&D**, **verification**, and **building scalable, high-quality applications**.
-
-Currently, I am completing **Verilog and digital design training** and actively seeking opportunities in **software development** and **hardware/software integration**.
-
+I am a Computer Systems Engineer with a strong foundation in **object-oriented programming**, **algorithms**, and **software development**. My experience spans **full-stack web development** , with hands-on projects using **Python, JavaScript, Java**, and modern frameworks. 
 ---
 
 ## 🎓 Education
 - **Full-Stack Developer Certificate** – Axsos Academy (2025)  
   - 1200+ coding hours, algorithms & data structures, and 3 full projects (MERN, Spring Boot, Django).
 - **Bachelor of Engineering in Computer System Engineering** – Arab American University (Apr 2023)  
-- Currently enrolled in **Verilog and Digital Design Training** – Expected completion soon  
 
 ---
 
@@ -27,7 +23,6 @@ Currently, I am completing **Verilog and digital design training** and actively 
 - **Programming Languages:** Python, C++, Java, JavaScript  
 - **Frameworks & Libraries:** React.js, Node.js, Spring Boot, Django, Flask  
 - **Databases:** MySQL  
-- **Hardware & Design:** Verilog HDL, Digital Design  
 - **Tools & Platforms:** Git, npm, VS Code, Visual Studio, Postman, Linux  
 - **Core Strengths:** OOP, Algorithms & Data Structures, Debugging, Problem Solving  
 
